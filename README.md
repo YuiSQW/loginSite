@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My first short project to HTML/CSS/JS for the introduction class Web and Database Technology (CSE1500) 
+
 <!--
 **YuiSQW/YuiSQW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
